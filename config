@@ -1,0 +1,31 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "portfolio"]
+	url = https://github.com/TMaruthi/CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/portfolio/*
+[remote "msg"]
+	url = https://github.com/TMaruthi/CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/msg/*
+[remote "portfolio1"]
+	url = https://github.com/TMaruthi/CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/portfolio1/*
+[remote "portfolio2"]
+	url = https://github.com/TMaruthi/CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/portfolio2/*
+[remote "mmmm"]
+	url = https://github.com/TMaruthi/CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/mmmm/*
+[remote "portfolio5"]
+	url = https://github.com/TMaruthi/CODTECH-Task2.git
+	fetch = +refs/heads/*:refs/remotes/portfolio5/*
+[remote "m"]
+	url = https://github.com/TMaruthi/CODTECH-Task2.git
+	fetch = +refs/heads/*:refs/remotes/m/*
+[remote "origin"]
+	url = https://github.com/TMaruthi/TMaruthi-CODTECH-Task2
+	fetch = +refs/heads/*:refs/remotes/origin/*
